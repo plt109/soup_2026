@@ -1,0 +1,35 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# LaTeX build artifacts (keep the compiled .pdf)
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+
+# Archives (data is committed unzipped)
+*.zip
+
+# OS / editor clutter
+.DS_Store
+__MACOSX/
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
